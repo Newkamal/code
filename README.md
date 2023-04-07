@@ -1,2 +1,2 @@
 # code
-My first portfolio includes  html &amp; css pages.
+My first portfolio includes  html , css and js .
